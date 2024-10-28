@@ -1,0 +1,11 @@
+c:\users\my computer\documents\visual studio 2015\Projects\Simple CoffeShop System\Simple CoffeShop System\bin\Debug\Simple CoffeShop System.exe.config
+c:\users\my computer\documents\visual studio 2015\Projects\Simple CoffeShop System\Simple CoffeShop System\bin\Debug\Simple CoffeShop System.exe
+c:\users\my computer\documents\visual studio 2015\Projects\Simple CoffeShop System\Simple CoffeShop System\bin\Debug\Simple CoffeShop System.pdb
+c:\users\my computer\documents\visual studio 2015\Projects\Simple CoffeShop System\Simple CoffeShop System\bin\Debug\Guna.UI2.dll
+c:\users\my computer\documents\visual studio 2015\Projects\Simple CoffeShop System\Simple CoffeShop System\obj\Debug\Simple CoffeShop System.csprojResolveAssemblyReference.cache
+c:\users\my computer\documents\visual studio 2015\Projects\Simple CoffeShop System\Simple CoffeShop System\obj\Debug\Simple_CoffeShop_System.Form1.resources
+c:\users\my computer\documents\visual studio 2015\Projects\Simple CoffeShop System\Simple CoffeShop System\obj\Debug\Simple_CoffeShop_System.Properties.Resources.resources
+c:\users\my computer\documents\visual studio 2015\Projects\Simple CoffeShop System\Simple CoffeShop System\obj\Debug\Simple CoffeShop System.csproj.GenerateResource.Cache
+c:\users\my computer\documents\visual studio 2015\Projects\Simple CoffeShop System\Simple CoffeShop System\obj\Debug\Simple CoffeShop System.exe
+c:\users\my computer\documents\visual studio 2015\Projects\Simple CoffeShop System\Simple CoffeShop System\obj\Debug\Simple CoffeShop System.pdb
+C:\Users\My Computer\documents\visual studio 2015\Projects\Simple CoffeShop System\Simple CoffeShop System\obj\Debug\Simple_CoffeShop_System.Coffee.resources
